@@ -1,7 +1,5 @@
 package array;
 
-import array.Array;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -12,6 +10,5 @@ public class Main {
         System.out.println(array);
         array.remove(1);
         System.out.println(array);
-
     }
 }

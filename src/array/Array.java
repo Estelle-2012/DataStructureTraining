@@ -2,6 +2,7 @@ package array;
 
 /**
  * 动态数组
+ * 用于索引有语意的情况
  */
 public class Array<E> {
     private E[] data;
